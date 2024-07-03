@@ -4,7 +4,10 @@
 ## v6.1.0 (2024/07/02)
 
 1. Added features
-    - Added 2D barcode function
+    - Added 2D barcode function. For details, click [here](/2d_barcode)
+
+1. Bug fixes
+    - Fixed a bug where the "site logo" and "SSO login button icon" were not displayed after SSO was set up.
 
 
 ## v6.0.4 (2024/06/05)
